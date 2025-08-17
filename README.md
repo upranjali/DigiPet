@@ -55,7 +55,10 @@
 
   <h2>Contract Details</h2>
   <h3>Testnet Address:</h3>
-  <p>[Contract will be deployed soon]</p>
+  <p>ST187TV3T3T69PGKFWBEPHNNFA6HB1CBSZFP7453J.reasonable-blue-pike</p>
+  <p>Github Repository <a href = " "> </p>
+  <img width="2672" height="1459" alt="image" src="https://github.com/user-attachments/assets/bb7584eb-9aba-494f-8788-dcd5648e1edf" />
+
 
   <hr>
 </body>
